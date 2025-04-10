@@ -50,39 +50,22 @@
 
 ### 5. Визуализация контекста системы — диаграмма С4
 
-Диаграмма контекста монолитного решения в модели C4.
-
-```markdown
 [Диаграмма контекста C4 монолитного решения](https://github.com/Ferret56/architecture-sprint-3/blob/warmhouse/as_is_c4_context.png)
-```
 
 # Задание 2. Проектирование микросервисной архитектуры
 
-
-**Диаграмма контейнеров (Containers)**
-
-```markdown
 [Диаграмма контейнеров C4 микросервисного решения](https://github.com/Ferret56/architecture-sprint-3/blob/warmhouse/to_be_c4_container.png)
-```
 
-**Диаграмма компонентов (Components)**
-
-```markdown
 [Диаграмма одного из компонента C4 микросервисного решения](https://github.com/Ferret56/architecture-sprint-3/blob/warmhouse/to_be_c4_component.png)
-```
 
-**Диаграмма кода (Code)**
-
-```markdown
 [Диаграмма кода одного из компонента C4 микросервисного решения](https://github.com/Ferret56/architecture-sprint-3/blob/warmhouse/to_be_c4_code.png)
-```
 
 
 # Задание 3. Разработка ER-диаграммы
 
-```markdown
+
 [ER диаграмма](https://github.com/Ferret56/architecture-sprint-3/blob/warmhouse/ER_diagram.png)
-```
+
 
 
 
